@@ -1,0 +1,10 @@
+{
+  "name": "tracker-proxy",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "gdax": "^0.4.2",
+    "socket.io": "^2.0.4"
+  }
+}
